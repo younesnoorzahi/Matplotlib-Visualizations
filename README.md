@@ -61,3 +61,6 @@ d
 t
 θ=θ+ω⋅dt</li>
 </ul>
+
+<h1>Plotting:</h1>
+<li>The angle and angular velocity are plotted against time.</li>
