@@ -64,3 +64,12 @@ t
 
 <h1>Plotting:</h1>
 <li>The angle and angular velocity are plotted against time.</li>
+
+
+<h1>Step 3: Run the Code</h1>
+<p>Run the code in your Python environment. You should see two plots: one showing the angle of the pendulum over time, and the other showing the angular velocity over time.</p>
+
+ <h1>Notes:</h1>
+
+ <li>The Euler method is simple but not the most accurate for long simulations. For better accuracy, consider using more advanced numerical methods like the Runge-Kutta method.</li>
+ <li>The simulation assumes a small damping factor (none in this case), which is why the pendulum oscillates indefinitely. In reality, air resistance and friction would cause the pendulum to slow down over time.</li>
