@@ -1,4 +1,4 @@
-<h1>Pendulum</h1>
+<h1>pendulum in Python</h1>
 <p>To simulate a pendulum in Python, you can use various libraries such as matplotlib for visualization and numpy for numerical computations. Below is an example of how to simulate a simple pendulum using the Euler method for numerical integration.</p>
 
 <h1>Step 1: Install Required Libraries</h1>
