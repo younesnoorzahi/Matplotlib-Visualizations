@@ -21,3 +21,43 @@
   <li>t_max is the maximum time for the simulation.</li>
   <li>dt is the time step for the Euler method.</li>
 </ul>
+
+<h1>Euler Method:</h1>
+
+<ul>
+  <li>The angular acceleration alpha is calculated using the pendulum equation: 
+α
+=
+−
+g
+L
+sin
+⁡
+(
+θ
+)
+α=− 
+L
+g
+​
+ sin(θ).</li>
+  <li>The angular velocity omega and angle theta are updated using the Euler method:</li>
+  <li>ω
+=
+ω
++
+α
+⋅
+d
+t
+ω=ω+α⋅dt</li>
+  <li>θ
+=
+θ
++
+ω
+⋅
+d
+t
+θ=θ+ω⋅dt</li>
+</ul>
